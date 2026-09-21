@@ -1,0 +1,7 @@
+Name: Suryaprakash Murugavvel
+Live URL: https://codd.cs.gsu.edu/~smurugavvel1/web/hw1/index.html
+GitHub: https://github.com/Rawrzilla-720s/Homework_1
+Notes: All requirements completed. HTML passes the W3C HTML5 validator with 0 errors
+and 0 warnings. CSS passes the W3C Jigsaw CSS validator with 0 errors. The stylesheet
+is external and contains 83 rules. The page is responsive at mobile, tablet, and
+desktop widths, and all text meets WCAG AA contrast ratios.
